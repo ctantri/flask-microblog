@@ -1,0 +1,6 @@
+__pycache__
+.venv
+.flaskenv
+
+# Ignore tests for now
+tests
