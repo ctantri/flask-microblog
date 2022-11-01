@@ -1,6 +1,7 @@
 __pycache__
 .venv
 .flaskenv
+.vscode
 
 # Ignore tests for now
 tests
