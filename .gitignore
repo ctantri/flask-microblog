@@ -2,8 +2,9 @@ __pycache__
 .venv
 .flaskenv
 .vscode
+logs/
 
 # Ignore tests for now
-tests
+tests/
 
 *.db
